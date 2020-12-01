@@ -1,4 +1,4 @@
-## :sparkles: Advent of Code 2020 :sparkles:
+### :sparkles: Advent of Code 2020 :sparkles:
 
 ![GitHub top language](https://img.shields.io/github/languages/top/JamesHarcourt7/advent-of-code2020?style=flat-square)
 
