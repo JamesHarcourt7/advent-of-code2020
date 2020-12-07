@@ -18,7 +18,7 @@ public class Day1 {
 		
 		// Read from the input text file and store each number in numList.
 		try {
-			BufferedReader reader = new BufferedReader(new FileReader("src/day1.txt"));
+			BufferedReader reader = new BufferedReader(new FileReader("day1.txt"));
 			String line;
 			while ((line = reader.readLine()) != null) {
 				numList.add(Integer.parseInt(line));
