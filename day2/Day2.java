@@ -22,6 +22,7 @@ public class Day2 {
 			}
 			System.out.println("Part 1 solution: " + part1(lines));
 			System.out.println("Part 2 solution: " + part2(lines));
+			br.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
