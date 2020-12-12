@@ -140,6 +140,7 @@ public class Day4 {
             while ((line = br.readLine()) != null) {
                 lines.add(line);
             }
+            br.close();
             // Add a blank line to the end, else it will not count the last passport.
             lines.add("");
             day = new Day4(lines);
