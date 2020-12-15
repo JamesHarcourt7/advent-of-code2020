@@ -33,7 +33,7 @@ public class Day9 {
     
     public static int partOne(ArrayList<String> lines) {
         // Once again, brute forcing to save the day.
-        // Time complexity something like O(n**3)? ;_;
+        // Time complexity something like O(n**3)? ;-;
         
         for (int i = 25; i < lines.size(); i ++) {
             // Changed int to long as numbers became too big for int.
