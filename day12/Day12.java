@@ -129,7 +129,6 @@ public class Day12 {
                 this.wayX = (int) (this.x + Math.round(dx));
                 this.wayY = (int) (this.y + Math.round(dy));
             }
-            System.out.println();
         }
         return Math.abs(this.x) + Math.abs(this.y);
     }
